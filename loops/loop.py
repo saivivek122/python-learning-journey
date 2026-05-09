@@ -27,3 +27,8 @@ for x in range(5):
 
 print(type(5))
 print(type(range(5)))
+
+number = 100
+while number > 0:
+    print(number)
+    number //= 2
