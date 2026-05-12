@@ -9,3 +9,4 @@ Learning Python step by step.
 - DAY-4 completed while loop
 - DAY-5 completed while loop  
 - DAY-6 completed Infinity loops and functions
+- DAY-7 completed List, Tuple, set, python
