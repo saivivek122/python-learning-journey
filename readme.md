@@ -4,7 +4,7 @@ Learning Python step by step.
 
 ## Topics Covered
 - DAY-1 started with the first python code (hello world)
-- DAY-2 completed strings, string methods, numbers, numbers methods, type conversion,input and comparison operators 
+- DAY-2 completed strings, string methods, numbers, numbers methods, type conversion,   input and comparison operators 
 - DAY-3 completed conditional statements, loops, iterables and operators
 - DAY-4 completed while loop
 - DAY-5 completed while loop  
@@ -13,3 +13,4 @@ Learning Python step by step.
 - DAY-8 completed more on List, Tuple, set, python
 - Day-9 completed the swapping match and array
 - Day-10 completed the array methods and functional arguments
+- Day-11 completed the array
